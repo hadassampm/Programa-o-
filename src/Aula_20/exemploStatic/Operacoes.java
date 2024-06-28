@@ -1,4 +1,4 @@
-package Aula20.exemploStatic;
+package Aula_20.exemploStatic;
 
 public class Operacoes {
     static float soma (float n1, float n2){

@@ -1,4 +1,4 @@
-package Aula20.exemploStatic;
+package Aula_20.exemploStatic;
 
 import java.util.Random;
 public class Conta {

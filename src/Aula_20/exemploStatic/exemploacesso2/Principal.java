@@ -1,6 +1,6 @@
-package Aula20.exemploStatic.exemploacesso2;
+package Aula_20.exemploStatic.exemploacesso2;
 
-import Aula20.exemploStatic.exemploacesso.Pessoa;
+import Aula_20.exemploStatic.exemploacesso.Pessoa;
 
 public class Principal {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package Aula20.exemploStatic.exemploAcesso3;
+package Aula_20.exemploStatic.exemploAcesso3;
 
 public class Principal {
     public static void main(String[] args){
-        Conta c1 = new Aula20.exemploStatic.exemploAcesso3.Conta("Ana", "123", 10);
+        Aula_20.exemploStatic.exemploAcesso3.Conta c1 = new Aula_20.exemploStatic.exemploAcesso3.Conta("Ana", "123", 10);
         System.out.println("Conta cadastrada com 10: "+ c1.getIdentificador());
-        Aula20.exemploStatic.exemploAcesso3.Conta c2 = new Aula20.exemploStatic.exemploAcesso3.Conta("José", "345", 100);
+        Aula_20.exemploStatic.exemploAcesso3.Conta c2 = new Aula_20.exemploStatic.exemploAcesso3.Conta("José", "345", 100);
         System.out.println("Conta cadastrada com 10: "+c2.getIdentificador());
         c1.depositar(100);
         c1.sacar(10);

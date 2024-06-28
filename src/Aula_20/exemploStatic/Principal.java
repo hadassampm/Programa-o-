@@ -1,4 +1,4 @@
-package Aula20.exemploStatic;
+package Aula_20.exemploStatic;
 
 public class Principal {
     public static void main(String[] args){

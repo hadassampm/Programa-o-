@@ -1,4 +1,4 @@
-package Aula20.exemploStatic;
+package Aula_20.exemploStatic;
 
 public class Calculadora {
     public static void main(String[] args) {

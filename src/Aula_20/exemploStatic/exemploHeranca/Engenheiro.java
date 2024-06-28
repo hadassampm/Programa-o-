@@ -1,4 +1,4 @@
-package Aula20.exemploStatic.exemploHeranca;
+package Aula_20.exemploStatic.exemploHeranca;
 
 public class Engenheiro extends Funcionario {
 

@@ -1,4 +1,4 @@
-package Aula20.exemploStatic.exemploAcesso3;
+package Aula_20.exemploStatic.exemploAcesso3;
 
 import java.util.Random;
 

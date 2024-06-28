@@ -1,4 +1,4 @@
-package Aula20.exemploStatic.exemploHeranca;
+package Aula_20.exemploStatic.exemploHeranca;
 
 public class Principal {
     public static void main(String[] args){
