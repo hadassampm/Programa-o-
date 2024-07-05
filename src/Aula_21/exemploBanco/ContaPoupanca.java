@@ -1,19 +1,19 @@
 package Aula_21.exemploBanco;
 
 public class ContaPoupanca extends Conta{
-    public ContaPoupanca(String Titular, String Senha, float deposito) {
-        super(Titular, Senha);
-        Saldo = deposito;
+    public ContaPoupanca(String titular, String senha, float deposito) {
+        super(titular, senha);
+        saldo = deposito;
     }
     public boolean sacar (float valor){
-        if(valor <= Saldo){
-            Saldo -= valor;
+        if(valor <= saldo){
+            saldo -= valor;
             return true;
         }
         return false;
     }
     public String verificaSaldo(){
-        return String.format("Seu saldo atual é de R$%.2f", Saldo);
+        return String.format("Seu saldo atual é de R$%.2f", saldo);
         //return "Saldo: "+Saldo;
     }
 }
