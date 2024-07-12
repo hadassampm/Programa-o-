@@ -45,3 +45,4 @@ public class Funcionario {
         this.salario = salario;
     }
 }
+

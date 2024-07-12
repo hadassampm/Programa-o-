@@ -1,6 +1,7 @@
 package Aula_20.exemploStatic;
 
 import java.util.Random;
+
 public class Conta {
     String titular;
     String identificador;

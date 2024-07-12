@@ -1,7 +1,6 @@
 package Aula_20.exemploStatic.exemploHeranca;
 
-public class Engenheiro extends Funcionario {
-
+public class Engenheiro extends Funcionario{
     public Engenheiro(String nome, String sobrenome, int matricula){
         super(nome,sobrenome,matricula);
     }
